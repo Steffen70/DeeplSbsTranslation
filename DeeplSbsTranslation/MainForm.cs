@@ -6,7 +6,7 @@ namespace DeeplSbsTranslation
 {
     public partial class MainForm : Form
     {
-        private static readonly string ApiKey = "";
+        private const string ApiKey = "";
 
         public MainForm()
         {
