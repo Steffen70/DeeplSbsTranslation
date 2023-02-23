@@ -6,7 +6,7 @@ namespace DeeplSbsTranslation
 {
     public partial class MainForm : Form
     {
-        private const string ApiKey = "";
+        private const string ApiKey = "cbf57f8e-e2f6-0830-917a-b158fff4ac00:fx";
 
         public MainForm()
         {

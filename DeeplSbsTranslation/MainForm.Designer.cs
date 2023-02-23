@@ -99,6 +99,7 @@
             ClientSize = new Size(800, 450);
             Controls.Add(tableLayoutPanel1);
             Name = "MainForm";
+            ShowIcon = false;
             Text = "Sentence by sentence translation";
             tableLayoutPanel1.ResumeLayout(false);
             tableLayoutPanel1.PerformLayout();
